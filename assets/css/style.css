@@ -24,11 +24,11 @@ body {
 
 /* ===3.CONTAINER=== */
 
-.description {
+.description{
   white-space: pre-wrap;
 }
 
-.time-block {
+.time-block{
   text-align: center;
   border-radius: 15px;
 }
@@ -74,10 +74,15 @@ body {
 }
 
 textarea {
-  background: transparent;
+  background: #d3d3d3;
   border: none;
   resize: none;
   color: #000000;
   border-left: 1px solid black;
   padding: 10px;
+}
+
+p {
+  padding-top: 28px;
+  font-size: 19px;
 }
