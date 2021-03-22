@@ -8,7 +8,7 @@
 * [Link URL to GitHub Repository](#link-URL-to-GitHub-repository)
 
 ## **_Description of the project_**
-This project is a 
+This project is a simple work day scheduler application that allows the user to save events for each hour of the day. highliting the events in different colors depending on ... moment of the day...
 
 ## **_Technologies used_**
 Project is created using:
