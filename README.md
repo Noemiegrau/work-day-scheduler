@@ -18,7 +18,7 @@ Project is created using:
 * Third party API (jQuery, jQuery moment, Bootstrap)
 
 ## **_Mockup_**
-<img width="855" alt="Screen Shot 2021-03-21 at 11 35 29 PM" src="https://user-images.githubusercontent.com/78329298/111949535-211dd080-8a9e-11eb-878d-63df8107047a.png">
+<img width="909" alt="Screen Shot 2021-03-22 at 8 01 17 AM" src="https://user-images.githubusercontent.com/78329298/112010715-ca87b500-8ae4-11eb-9049-501e0bdc3024.png">
 
 ## **_Link URL to deployed app on GitHub_**
 https://noemiegrau.github.io/work-day-scheduler/
