@@ -1,4 +1,4 @@
-# **_Work Day Scheduler Starter Code_**
+# **_Work Day Scheduler_**
 
 ## **_Table of contents_**
 * [Description of the project](#description-of-the-project)
