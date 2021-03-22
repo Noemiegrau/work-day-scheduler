@@ -12,7 +12,7 @@ $("document").ready(function() {
     });
 
     // Sets variable value for current time 
-    let currentTime = moment().hours()+4;
+    let currentTime = moment().hours();
     // console.log(currentTime);
 
     // Takes care of attributing the background colors according to the time of the day
